@@ -7,6 +7,9 @@
 **A tool for minecraft forge 1.8.9 token account login**
 </div>
 
+## Important
+This version modify by [Grok AI](https://grok.com/), original author of the mod is [schubilegend](https://github.com/schubilegend/SchubiAuthV2)
+
 ## Download
 Download from [Releases](https://github.com/weiwei-hacking/mcTokenLogin/releases) and drag that into your mod folder.
 
@@ -24,9 +27,6 @@ Setup and compile it yourself (if you dont trust the release).
 - Allows you to change the username of the account you are logged in with (Also prevents you from accidentally changing the name of your main account)
 - Allows you to change the skin of the account you are logged in with using an url (e.g. http://assets.mojang.com/SkinTemplates/steve.png to change it to a steve skin)
 - Simple to use
-
-## Important
-This version modify by Grok AI, original author of the mod is [schubilegend](https://github.com/schubilegend/SchubiAuthV2)
 
 ## Disclaimer
 This is for educational purposes only. I am not responsible for any damage caused by this tool.
