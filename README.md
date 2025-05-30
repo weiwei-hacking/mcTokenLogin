@@ -2,7 +2,7 @@
 
 # mcTokenLogin
 
-![](https://img.shields.io/github/downloads/weiwei-hacking/mcTokenLogin/total?style=for-the-badge)
+![](https://img.shields.io/github/license/weiwei-hacking/mcTokenLogin?style=for-the-badge) ![](https://img.shields.io/github/downloads/weiwei-hacking/mcTokenLogin/total?style=for-the-badge) ![](https://img.shields.io/github/last-commit/weiwei-hacking/mcTokenLogin?style=for-the-badge)
 
 **A tool for minecraft forge 1.8.9 token account login**
 </div>
