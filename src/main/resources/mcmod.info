@@ -1,0 +1,16 @@
+[
+{
+  "modid": "mctokenlogin",
+  "name": "mcTokenLogin",
+  "description": "mcToken login Mod",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["ExampleDude"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
